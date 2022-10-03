@@ -1,7 +1,7 @@
 # scaling-chainsaw
 GitHub and Git learning repo, for practice only
 
-![Man using a chainsaw](https://media.giphy.com/media/SGV9O1fuh2nf5T8FNW/giphy.gif)
+![Man using a chainsaw](https://media.giphy.com/media/xTiTnqYF9rfRp2xqww/giphy.gif)
 
 Hello world
 
